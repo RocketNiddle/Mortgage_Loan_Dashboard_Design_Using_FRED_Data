@@ -27,3 +27,5 @@ The data tools chosen for this project were based on factors like scalability, e
 
 ## License  
 This project is licensed under the MIT License.
+
+![Dashboard](Dashboard.png)
