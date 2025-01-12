@@ -10,13 +10,13 @@ This project demonstrates how to create a dynamic Power BI data model to analyze
 
 ### Key Features
 - **Interest Rate Data**: Imports mortgage rates from FRED (15-year & 30-year fixed).
-  ![15 years](15years.png)
-  ![30 years](30years.png)
+  ![15 years](15_years.png)
+  ![30 years](30_years.png)
 - **Loan Calculations**: Computes monthly rates, payments, balances, interest, and principal payments.
-  ![Model 1](Model1.png)
-  ![Model 2](Model2.png)
+  ![Model 1](Model_1.png)
+  ![Model 2](Model_2.png)
 - **Dynamic Visualization**: Utilizes Power BI's capabilities for interactive charts and reports.
-  ![Average Interest Rate](AverageInterestRate.png)
+  ![Average Interest Rate](Average_Interest_Rate.png)
   ![Parallelperiod](Parallelperiod.png)
   
 ### Tools & Technologies
