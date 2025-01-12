@@ -1,21 +1,27 @@
 # Loan Model Power BI Data Model
 
-### Overview  
+# Overview  
 This project demonstrates how to create a dynamic Power BI data model to analyze mortgage loans based on Federal Reserve Economic Data (FRED). The model calculates key loan metrics for both **15-year** and **30-year** fixed mortgage rates, utilizing **DAX** for efficient loan calculations and visualizations.
 
-### Project Overview: 
+# Project Overview: 
 🧩 Creating a Power BI data model using DAX calculations to build a loan model based on mortgage rates.
 ### Data Sources:
 🔍 The model uses interest rates from the Federal Reserve Economic Data (FRED), including 30-year and 15-year fixed mortgage rates.
 
-### Key Features
-- **Interest Rate Data**: Imports mortgage rates from FRED (15-year & 30-year fixed).
+# Key Features
+
+##**Interest Rate Data**: Imports mortgage rates from FRED (15-year & 30-year fixed).
+
   ![15 years](15_years.png)
   ![30 years](30_years.png)
-- **Loan Calculations**: Computes monthly rates, payments, balances, interest, and principal payments.
+
+##**Loan Calculations**: Computes monthly rates, payments, balances, interest, and principal payments.
+
   ![Model 1](Model_1.png)
   ![Model 2](Model_2.png)
-- **Dynamic Visualization**: Utilizes Power BI's capabilities for interactive charts and reports.
+
+## **Dynamic Visualization**: Utilizes Power BI's capabilities for interactive charts and reports.
+
   ![Average Interest Rate](Average_Interest_Rate.png)
   ![Parallelperiod](Parallelperiod.png)
   
