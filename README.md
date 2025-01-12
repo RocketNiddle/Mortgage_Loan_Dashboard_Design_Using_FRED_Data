@@ -25,7 +25,4 @@ The data tools chosen for this project were based on factors like scalability, e
 - Interact with the dynamic visuals to analyze loan metrics and payments.
 - Modify interest rates or parameters to simulate different loan scenarios.
 
-## License  
-This project is licensed under the MIT License.
-
 ![Dashboard](Dashboard.png)
